@@ -10,3 +10,8 @@ Czasami konieczne jest wyróżnienie ważnego fragmentu tekstu lub cytatu. Możn
 	- Heraklit z Efezu
 
 Ten cytat powyżej powinien być sformatowany jako "Blok tekstu" (lub "Cytat"), zwykle z większym wcięciem z lewej strony i być może pisany kursywą.
+
+.. image :: _static/
+heraklit.jpg
+   :alt: Heraklit z Efezu
+   :align: center
